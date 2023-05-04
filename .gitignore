@@ -1,4 +1,6 @@
 .vscode/
 polars-env/
-*.csv
+.csv
 .ipynb_checkpoints/
+*.idea
+*.DS_Store
