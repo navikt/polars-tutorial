@@ -1,5 +1,6 @@
 .vscode/
 polars-env/
+venv/
 #.csv
 .ipynb_checkpoints/
 *.idea
